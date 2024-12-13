@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/PWMaestro/go-bookings/pkg/config"
-	"github.com/PWMaestro/go-bookings/pkg/models"
+	"github.com/PWMaestro/go-bookings/internal/config"
+	"github.com/PWMaestro/go-bookings/internal/models"
 	"github.com/justinas/nosurf"
 )
 

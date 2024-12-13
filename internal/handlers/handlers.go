@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/PWMaestro/go-bookings/pkg/config"
-	"github.com/PWMaestro/go-bookings/pkg/models"
-	"github.com/PWMaestro/go-bookings/pkg/render"
+	"github.com/PWMaestro/go-bookings/internal/config"
+	"github.com/PWMaestro/go-bookings/internal/models"
+	"github.com/PWMaestro/go-bookings/internal/render"
 )
 
 // Repo the repository used by the handlers
